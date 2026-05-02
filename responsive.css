@@ -1,0 +1,46 @@
+@media (max-width: 1536px) {
+    
+}
+
+/* xl */
+@media (max-width: 1280px) {
+
+}
+
+/* lg */
+@media (max-width: 1024px) { 
+
+    
+}
+
+/* md */
+@media (max-width: 768px) {
+
+   
+
+}
+   
+
+/* sm */
+@media (max-width: 640px) {
+
+/* Modo para celulares*/
+
+  .form {
+        grid-template-columns: 1fr;
+    }
+
+    .form-buttons {
+        justify-content: center;
+    }
+
+     .form-buttons {
+        grid-column: span 1;
+    }
+
+}    
+
+/* xs */
+@media (max-width: 475px) {
+    
+}
