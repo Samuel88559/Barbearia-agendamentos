@@ -16,6 +16,16 @@ body{
     padding: 20px;
 }
 
+/*.imagem img{
+    width: 100%;
+}
+
+.figura{
+    max-width: 500px;
+    margin: 0 auto;
+    padding: 0;
+}
+*/
 header{
     padding: 40px 0;
 }
